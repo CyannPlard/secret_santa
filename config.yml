@@ -1,0 +1,5 @@
+smtp_server : smtp.serveur.serveur
+port : number
+sender_login : login
+sender_email : email@email.email
+password : password
